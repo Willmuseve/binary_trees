@@ -3,11 +3,8 @@
 /**
  * binary_tree_node - function that creates a
  * binary tree node
- *
  * @parent: pointer to root/parent
- *
  * @value: data to be inserted
- *
  * Return: Pointer to new_node
  * or NULL upon failure
  */
